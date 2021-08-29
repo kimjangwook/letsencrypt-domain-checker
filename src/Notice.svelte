@@ -8,7 +8,7 @@
                     application to check that certain domain is included in revoking target.</p>
             </div>
             <div class="card-action">
-                <a href="https://www.jangwook.net">Home</a>
+                <a href="https://jangwook.net">Home</a>
                 <a href="https://medium.com/@kim-jangwook" target="_blank">Blog</a>
             </div>
         </div>
