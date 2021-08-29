@@ -9,7 +9,7 @@
             </div>
             <div class="card-action">
                 <a href="https://www.jangwook.net">Home</a>
-                <a href="https://medium.com/@kim.jangwook" target="_blank">Blog Posts</a>
+                <a href="https://medium.com/@kim-jangwook" target="_blank">Blog</a>
             </div>
         </div>
     </div>
